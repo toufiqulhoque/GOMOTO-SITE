@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { Card, Col, Container, Row, Spinner } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import useAuth from '../Hooks/useAuth';
+import './Service.css'
 
 import useFetch from '../Hooks/useFetch';
 
@@ -40,7 +41,7 @@ const Service = () => {
     return (
 
         <Container>
-            <h2>Services</h2>
+            <h2 className='my-5'>Services</h2>
             <Row xs={1} lg={3} className="g-3">
                 {
 

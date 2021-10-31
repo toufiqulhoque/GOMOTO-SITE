@@ -19,8 +19,8 @@ const Login = () => {
     }
     return (
         <div>
-            <div className='login-form border'>
-                <h3>Login With </h3>
+            <div className='login-form '>
+                <h3>Login With Google</h3>
                 <button className='px-5 mt-2 py-2' onClick={handleGoogleLogin}><FcGoogle /><span className='m-3'>Continue with Google</span></button>
             </div>
         </div>
