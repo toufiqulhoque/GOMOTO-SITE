@@ -1,0 +1,24 @@
+.banner-tag{
+    font-size: 70px;
+}
+.banner-tag-color{
+    color: #F7B614;
+}
+.banner-tag-align{
+    text-align: start;
+    margin-left: 10%;
+}
+.banner-bg{
+    background-image: url('https://i.ibb.co/Bjdh6TN/slider-eclipse.png');
+}
+.banner-image{
+    margin-right: 10%;
+}
+
+
+
+  @media only screen and (min-width: 300px){
+	.bannar-image{
+        display: none;
+    }
+}

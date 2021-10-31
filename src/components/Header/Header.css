@@ -1,0 +1,18 @@
+.nav-text-style {
+    
+    margin-right: 10%;
+    font-weight: 700;
+    color: white;
+}
+.nav-text-style:hover{
+    color: #F7B614;
+}
+.nav-bar{
+    background-color: #282932;
+}
+.user-text{
+    font-weight: 700;
+}
+.header-font{
+    font-weight: 700;
+}

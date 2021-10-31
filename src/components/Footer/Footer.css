@@ -1,0 +1,17 @@
+.footer-bg{
+    background-color: #F7B614;
+    
+   
+}
+
+.footer-main-bg{
+    background-image: url('https://www.saintm2.com/themes/canvasv4/images/footer-bg.jpg');
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.footer-icon{
+    color:#F7B614 ;
+}
+.footer-icon-single:hover{
+    color:white ;
+}

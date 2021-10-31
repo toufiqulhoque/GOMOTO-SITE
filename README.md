@@ -1,3 +1,18 @@
+# GOMOTO
+
+This is the  Delivery Service Web app. Now You can get food faster.
+
+## Website links
+Click Site :[Live Site](https://bloodcurdling-cat-91200.herokuapp.com/)
+![Click here](https://i.imgur.com/fwC0eVG.png)
+
+## functionalities
+
+* Super interactive and easy to use website
+* You can get food service more easier 
+* User friendly  
+* We have Login/Registration system for our Registered customer.
+* You will also get Food Delivery Service support buy using mobile
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
